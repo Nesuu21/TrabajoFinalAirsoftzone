@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AirsoftZone</string>
+    <string name="emaileditText">Correo Electronico</string>
+    <string name="passwordEditText">Contraseña</string>
+    <string name="signUpButton">REGISTRAR</string>
+    <string name="logInButton">ACCEDER</string>
+    <string name="logoutButton">CERRAR SESIÓN</string>
+    logoutButton
+</resources>

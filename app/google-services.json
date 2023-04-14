@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "392651374476",
+    "project_id": "tfgairsoftzone",
+    "storage_bucket": "tfgairsoftzone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392651374476:android:39f190208b24a4427d20a9",
+        "android_client_info": {
+          "package_name": "com.prv.airsoftzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392651374476-1nsamm4juhlml62d9vuo1gh1fh51h5t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDakFc3ckr4rlOLgHb51bYCRsBWLJ62Tk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392651374476-1nsamm4juhlml62d9vuo1gh1fh51h5t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
